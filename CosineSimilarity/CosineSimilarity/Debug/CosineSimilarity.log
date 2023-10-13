@@ -1,0 +1,11 @@
+﻿  CosineSimilarity.cpp
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(42): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(43): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(45): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(46): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(48): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(49): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(51): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\0v0\desktop\cosinesimilarity\cosinesimilarity\cosinesimilarity.cpp(52): warning C4305: “初始化”: 从“double”到“float”截断
+  CosineSimilarity.vcxproj -> C:\Users\0v0\Desktop\CosineSimilarity\Debug\CosineSimilarity.exe
